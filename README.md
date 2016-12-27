@@ -3,10 +3,10 @@
 The **secrity Simulink** is a programm to show the some Security Encryption Algorithm work. using some animation and Graphic design by using the c# programming language and the .NET Framework.
 
 **Algorithms:**
-1. Caesar Cipher 
-2. Monoalphabetic Cipher
-3. Vigenere Cipher 
-4. Playfair Cipher
+* Caesar Cipher 
+* Monoalphabetic Cipher
+* Vigenere Cipher 
+* Playfair Cipher
 
 ### Markdown
 
