@@ -1,0 +1,30 @@
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\bin\Debug\Qaser simuling.exe.config
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\bin\Debug\Qaser simuling.exe.manifest
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\bin\Debug\Qaser simuling.application
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\bin\Debug\Qaser simuling.exe
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\bin\Debug\Qaser simuling.pdb
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\bin\Debug\Interop.AcroPDFLib.dll
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Security Simulink.csprojResolveAssemblyReference.cache
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Interop.AcroPDFLib.dll
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Security Simulink.csproj.ResolveComReference.cache
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.About.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.AnalizeShow.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.AttackQaser.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.monoAlpahaBit.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.playfair.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.Qasser.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.Properties.Resources.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.showPdf.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.start.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser_simuling.VIGENERE.resources
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Security Simulink.csproj.GenerateResource.Cache
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser simuling.exe.manifest
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser simuling.application
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser simuling.exe
+E:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser simuling.pdb
+D:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\bin\Debug\Qaser simuling.exe.config
+D:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Security Simulink.csproj.ResolveComReference.cache
+D:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser simuling.exe
+D:\some project\Program\archev\Visual Studio 2012\Projects\Qaser simuling\Qaser simuling\obj\Debug\Qaser simuling.pdb
