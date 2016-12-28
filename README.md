@@ -36,5 +36,20 @@ The **secrity Simulink** is a programm to show the some Security Encryption Algo
 ![Note](https://s23.postimg.org/avqoqrffv/image.png)
 
 ####Show Frequency Interface:
-  ![Show Frequency Interface](https://s27.postimg.org/ko5kzh64j/Capture3.png)
+ ![Show Frequency Interface](https://s27.postimg.org/ko5kzh64j/Capture3.png)
+ 
+ 
+#What in the Monoalphabetic Cipher.
+* In the MONOALPHABETIC CIPHER interface we have the sequence of English litter Sort from A-Z to,  is a plain litters.
+* In the bellow of the plain litters,  we have another sequence of English litter but is random no sorted,  Is a cipher litters.
+* In the bottom of the program we have the two textbox.
+ * For the plain text you can enter your message then select loey and click to encryptlon to encrypt the text,  or you can click to the play En to show the anlmation,  for you know how MONOALPHABETIC work for encryption.
+ * For the Clpher text you can enter your Clpher message then select key and click to decryption to decrypt the text,or you can click to the play De to show the animation,  for you know how MONOALPHABETIC work for decryption. 
+
+  ####Monoalphabetic Cipher Interface:
+  ![Monoalphabetic Cipher Interface](https://s27.postimg.org/x42at7zgj/Capture4.png)
+  
+* In the bottom of the cipher litters we have Track Bar for control the speed of the animation.
+* Then we have button for the Example if you clicked it,  the program get Random Example.
+* Then we have button for generate the random key and insert into the cipher letter. 
 
