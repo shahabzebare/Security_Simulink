@@ -2,6 +2,8 @@
 
 The **secrity Simulink** is a programm to show the some Security Encryption Algorithm work. using some animation and Graphic design by using the c# programming language and the .NET Framework.
 
+You can download the setup file to install the program into your computer from [hear](https://www.dropbox.com/s/ts6lit8rspdu5t6/Security%20simulink%20program.msi?dl=0) .
+
 ####Main Form:
 ![Main Form](https://s27.postimg.org/ogp3f7lmr/Capture.png)
 
