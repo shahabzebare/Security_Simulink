@@ -53,3 +53,35 @@ The **secrity Simulink** is a programm to show the some Security Encryption Algo
 * Then we have button for the Example if you clicked it,  the program get Random Example.
 * Then we have button for generate the random key and insert into the cipher letter. 
 
+
+#What in the Vigenere Cipher.
+* In the Vigenere Cipher interface we have the table of English litter.
+* In the left of the program we have the three textbox.
+ *For the plain text you can enter your message then select key and click to encryption to encrypt the text,or you can click to the play En to show the animation,  for you know how VIGENERE work for encryption.
+ * For the Key text,  you can enter your key 
+ * For the cipher text you can enter your Cipher message then select key and click to dec to decrypt the text,  or you can click to the play De to show the anlmation,  for you know how VIGENERE work for decryption. 
+
+
+  ####Vigenere Cipher Interface:
+  ![Vigenere Cipher Interface](https://s27.postimg.org/eprrp8n5v/Capture5.png)
+  
+* In the bottom of the cipher litters we have Track Bar for control the speed of the animation.
+* Then we have button for the Example if you clicked it,  the program get Random Example.
+
+
+#What in the Playfair Cipher.
+ * In the Playfair Cipher interface we have the table of English litter.
+ * In the left of the program we have the three textbox.
+  * For the plain text you can enter your message then select key and click to encription to encrypt the text,  or you can click to the plav En to show the animation,  for you know how PLAYEAR work for encryption.
+  * For the Key text,  you can enter your key. 
+  * For the Cipher text you can enter your Cipher message then select key and click to decryption to decrypt the text Aor you can click to the play De to show the animation,  for you know how PLAYEAIR work for decryption. 
+
+  ####Playfair Cipher Interface(1):
+  ![Playfair Cipher Interface(1)](https://s27.postimg.org/4gzajez43/Capture6.png)
+  
+  ####Playfair Cipher Interface(2):
+  ![Playfair Cipher Interface(2)](https://s27.postimg.org/5xat1k20z/Capture7.png)
+  
+* In the bottom of the cipher litters we have Track Bar for control the speed of the animation.
+* Then we have button for the Example if you clicked it,  the program get Random Example.
+
