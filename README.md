@@ -2,42 +2,39 @@
 
 The **secrity Simulink** is a programm to show the some Security Encryption Algorithm work. using some animation and Graphic design by using the c# programming language and the .NET Framework.
 
+####Main Form:
+![Main Form](https://s27.postimg.org/ogp3f7lmr/Capture.png)
+
+
+
 **Algorithms:**
-```markdown
 * Caesar Cipher 
 * Monoalphabetic Cipher
 * Vigenere Cipher 
 * Playfair Cipher
-```
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#What in the Caesar Cipher.
+* In the CAESAR CIPHER interface we have the sequence of English litter Sort from A-Z to,  is a plain litters.
+* In the bellow of the plain litters,  we have another sequence of English litter but sorted by the key.  Is a cipher litters.
+* In the bottom of the program we have the two **textbox**
+  * For the plain text you can enter your message then select key and click to encryption to encrypt the text,or you can click to the play En to show the animation,  for you know how Caesar work for encryption.
+  * For the Cipher text you can enter your Cipher message then select key and cllck to de to decrypt the text,or you can cllck to the play De to show the animatlon,  for you know how Caesar work for decryptlon.  
 
-```markdown
-Syntax highlighted code block
+  ####Caesar Cipher Interface:
+  ![Caesar Cipher Interface](https://s27.postimg.org/qzasfw7cz/Capture1.png)
+  
+* In the bottom of the cipher litters we have Track Bar for control the speed of the animation.
+* Then we have button for the Example if you clicked it,  the program get Random Example.
+* Then we have button for Attack if you clicked it the program show for you new form and send your cipher message to it,  the show you the  message and Next and Back buttons, to try the all key utile show the right message.
 
-# Header 1
-## Header 2
-### Header 3
+  ####Attac Interface:
+  ![Attac Interface](https://s27.postimg.org/hg13mfjur/Capture2.png)
+  
+* The we have the button show Frequency,  to show what the frequency of the letters in the Cipher Text,  and show the Chart Graph of the Frequency of the cipher letters and the frequency of the English letters.
 
-- Bulleted
-- List
+![Note](https://s23.postimg.org/avqoqrffv/image.png)
 
-1. Numbered
-2. List
+####Show Frequency Interface:
+  ![Show Frequency Interface](https://s27.postimg.org/ko5kzh64j/Capture3.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shahabzebare/Security_Simulink/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
