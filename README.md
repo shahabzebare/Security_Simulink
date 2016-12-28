@@ -8,10 +8,10 @@ The **secrity Simulink** is a programm to show the some Security Encryption Algo
 
 
 **Algorithms:**
-* Caesar Cipher 
-* Monoalphabetic Cipher
-* Vigenere Cipher 
-* Playfair Cipher
+* [Caesar Cipher](https://github.com/shahabzebare/Security_Simulink#what-in-the-caesar-cipher) 
+* [Monoalphabetic Cipher](https://github.com/shahabzebare/Security_Simulink#what-in-the-monoalphabetic-cipher) 
+* [Vigenere Cipher](https://github.com/shahabzebare/Security_Simulink#what-in-the-vigenere-cipher) 
+* [Playfair Cipher](https://github.com/shahabzebare/Security_Simulink#what-in-the-playfair-cipher) 
 
 
 #What in the Caesar Cipher.
